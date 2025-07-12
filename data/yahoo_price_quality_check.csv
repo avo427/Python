@@ -1,0 +1,31 @@
+Ticker,Existence & Coverage,Calendar Alignment,Raw Price Sanity,Return Sanity
+ASTS,OK,OK,OK,WARN: Extreme return
+BRK/B,OK,OK,OK,OK
+CBOE,OK,OK,OK,OK
+COIN,OK,OK,OK,OK
+DDOG,OK,OK,OK,OK
+GOOGL,OK,OK,OK,OK
+HOOD,OK,OK,OK,OK
+INTU,OK,OK,OK,OK
+JEPQ,OK,OK,OK,OK
+MDB,OK,OK,OK,OK
+MELI,OK,OK,OK,OK
+META,OK,OK,OK,OK
+MSFT,OK,OK,OK,OK
+MSTR,OK,OK,OK,OK
+NBIS,OK,WARN: Missing 322 days,OK (skipped: short history),OK
+NET,OK,OK,OK,OK
+PATH,OK,OK,OK,OK
+PLTR,OK,OK,OK,OK
+QQQ,OK,OK,OK,OK
+QQQM,OK,OK,OK,OK
+RDDT,OK,WARN: Missing 175 days,OK (skipped: short history),OK
+SGOV,OK,OK,OK,OK
+SHOP,OK,OK,OK,OK
+SMCI,OK,OK,OK,OK
+SNAP,OK,OK,OK,OK
+SNOW,OK,OK,OK,OK
+TQQQ,OK,OK,OK,OK
+ULTY,OK,WARN: Missing 160 days,OK (skipped: short history),OK
+WIX,OK,OK,OK,OK
+XYZ,OK,OK,OK,OK
